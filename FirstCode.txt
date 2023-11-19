@@ -1,1 +1,3 @@
 First hellow 2222
+take input from user
+add the values
